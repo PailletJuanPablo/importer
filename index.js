@@ -1,5 +1,7 @@
 var requestPackage = require('request');
 
+var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=900&token=acf4b89d3d503d8252c9c4ba75ddbf6d&opera=1&tipo=1&dor=2';
+var rp = require('request-promise');
 
 var express = require('express');
 var app = express();
@@ -9,7 +11,7 @@ app.listen(process.env.PORT || 3000, () => {
 });
 
 app.get('/', (req, res) => {
-  var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=558&token=1bb91f73e9d31ea2830a5e73ce3ed328&tipo=1';
+  var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=558&token=1bb91f73e9d31ea2830a5e73ce3ed328';
 
   requestPackage(
     {
@@ -17,14 +19,11 @@ app.get('/', (req, res) => {
       json: true
     },
     function(error, response, body) {
+      if(error){
+        return res.send(error)
+      }
       if (!error && response.statusCode === 200) {
-        try {
-         // const propiedadesSinMapear = 
-          JSON.parse(response.body);
-        } catch (err) {
-          console.log('error', err);
-          return res.send(err)
-        }
+        const propiedadesSinMapear = response.body;
         const propiedadesMapeadas = [];
         propiedadesSinMapear.map(async propiedad => {
           let propiedadMapeada = {};
@@ -39,12 +38,7 @@ app.get('/', (req, res) => {
           const price = propiedad.precio.slice(1);
           propiedadMapeada.REAL_HOMES_property_price = price.replace(/\s/g,'');
           propiedadMapeada.REAL_HOMES_property_price_postfix = propiedad.moneda == 'D' ? 'USD' : '$';
-
-          
-       //   propiedadMapeada.REAL_HOMES_property_bedrooms = price;
           propiedadMapeada.REAL_HOMES_property_bathrooms = propiedad.banos;
-
-
           propiedadMapeada.REAL_HOMES_property_address = `${propiedad.calle} ${propiedad.nro}, ${propiedad.localidad}, ${propiedad.provincia}, ${propiedad.pais}`;
           propiedadMapeada.REAL_HOMES_property_location = propiedad.coord;
           propiedadMapeada.localidad = propiedad.localidad;
@@ -56,7 +50,8 @@ app.get('/', (req, res) => {
             return res.send(propiedadesMapeadas);
           }
         });
-
+      }else{
+        return res.send(response.body);
       }
     }
   );
@@ -66,7 +61,7 @@ getImagenesProperty = id => {
   return new Promise((resolve, reject) => {
     requestPackage(
       {
-        url: `https://gvamax.com.ar/Api/Images/?id=558&idprop=${id}&token=1bb91f73e9d31ea2830a5e73ce3ed328&tipo=1`
+        url: `https://gvamax.com.ar/Api/Images/?id=558&idprop=${id}&token=1bb91f73e9d31ea2830a5e73ce3ed328`
       },
       function(error, response, body) {
         if (!error && response.statusCode === 200) {
