@@ -24,6 +24,7 @@ app.get('/', (req, res) => {
         const propiedadesMapeadas = [];
         propiedadesSinMapear.map(async propiedad => {
           let propiedadMapeada = {};
+          propiedadMapeada.id = propiedad.id;
           propiedadMapeada.title = propiedad.titulo;
           propiedadMapeada.mainImage = propiedad.imagen;
           const imagesPropiedad = await getImagenesProperty(propiedad.id);
