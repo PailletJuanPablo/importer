@@ -11,7 +11,7 @@ app.listen(process.env.PORT || 3000, () => {
 });
 
 app.get('/', (req, res) => {
-  var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=900&token=acf4b89d3d503d8252c9c4ba75ddbf6d&opera=1&tipo=1&dor=2';
+  var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=558&token=1bb91f73e9d31ea2830a5e73ce3ed328&tipo=1';
 
   requestPackage(
     {
