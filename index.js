@@ -28,7 +28,10 @@ app.get('/', (req, res) => {
           propiedadMapeada.title = propiedad.titulo;
           propiedadMapeada.mainImage = propiedad.imagen;
           const imagesPropiedad = await getImagenesProperty(propiedad.id);
-          propiedadMapeada.imagesPropiedad = imagesPropiedad;
+          imagesPropiedad.map((imagen, index) => {
+            const imageUrl = Object.values(imagen)[0];
+            propiedadMapeada['imagen_' + index] = imageUrl;
+          });
           const price = propiedad.precio.slice(1);
           propiedadMapeada.REAL_HOMES_property_price = price.replace(/\s/g,'');
           propiedadMapeada.REAL_HOMES_property_price_postfix = propiedad.moneda == 'D' ? 'USD' : '$';
