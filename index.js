@@ -30,6 +30,9 @@ app.get('/', (req, res) => {
           propiedadMapeada.imagesPropiedad = imagesPropiedad;
           const price = propiedad.precio.slice(1);
           propiedadMapeada.REAL_HOMES_property_price = price;
+          propiedadMapeada.REAL_HOMES_property_price = propiedad.moneda == 'D' ? 'USD' : '$';
+
+          
        //   propiedadMapeada.REAL_HOMES_property_bedrooms = price;
           propiedadMapeada.REAL_HOMES_property_bathrooms = propiedad.banos;
 
