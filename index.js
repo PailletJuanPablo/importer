@@ -1,7 +1,5 @@
 var requestPackage = require('request');
 
-var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=900&token=acf4b89d3d503d8252c9c4ba75ddbf6d&opera=1&tipo=1&dor=2';
-var rp = require('request-promise');
 
 var express = require('express');
 var app = express();
@@ -20,7 +18,13 @@ app.get('/', (req, res) => {
     },
     function(error, response, body) {
       if (!error && response.statusCode === 200) {
-        const propiedadesSinMapear = response.body;
+        try {
+         // const propiedadesSinMapear = 
+          JSON.parse(response.body);
+        } catch (err) {
+          console.log('error', err);
+          return res.send(err)
+        }
         const propiedadesMapeadas = [];
         propiedadesSinMapear.map(async propiedad => {
           let propiedadMapeada = {};
@@ -62,7 +66,7 @@ getImagenesProperty = id => {
   return new Promise((resolve, reject) => {
     requestPackage(
       {
-        url: `https://gvamax.com.ar/Api/Images/?id=558&idprop=${id}&token=1bb91f73e9d31ea2830a5e73ce3ed328`
+        url: `https://gvamax.com.ar/Api/Images/?id=558&idprop=${id}&token=1bb91f73e9d31ea2830a5e73ce3ed328&tipo=1`
       },
       function(error, response, body) {
         if (!error && response.statusCode === 200) {
