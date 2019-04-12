@@ -1,0 +1,601 @@
+Values in 2019-04-09 was from open price of 175.6200 and high price of 179.1900
+            
+            Values in 2019-04-08 was from open price of 175.2100 and high price of 175.5000
+            
+            Values in 2019-04-11 was from open price of 178.2400 and high price of 178.4000
+            
+            Values in 2019-04-10 was from open price of 178.1800 and high price of 178.7900
+            
+            Values in 2019-04-05 was from open price of 176.8800 and high price of 177.0000
+            
+            Values in 2019-04-04 was from open price of 176.0200 and high price of 178.0000
+            
+            Values in 2019-04-02 was from open price of 170.1400 and high price of 174.9000
+            
+            Values in 2019-04-01 was from open price of 167.8300 and high price of 168.9000
+            
+            Values in 2019-03-29 was from open price of 166.3900 and high price of 167.1900
+            
+            Values in 2019-04-03 was from open price of 174.5000 and high price of 177.9600
+            
+            Values in 2019-03-28 was from open price of 164.5700 and high price of 166.7200
+            
+            Values in 2019-03-25 was from open price of 163.0000 and high price of 166.5400
+            
+            Values in 2019-03-27 was from open price of 167.8500 and high price of 168.9400
+            
+            Values in 2019-03-22 was from open price of 165.6500 and high price of 167.4200
+            
+            Values in 2019-03-26 was from open price of 167.3500 and high price of 169.4500
+            
+            Values in 2019-03-21 was from open price of 164.8900 and high price of 166.3900
+            
+            Values in 2019-03-20 was from open price of 161.5000 and high price of 166.1200
+            
+            Values in 2019-03-19 was from open price of 161.4800 and high price of 163.8200
+            
+            Values in 2019-03-15 was from open price of 167.1600 and high price of 167.5800
+            
+            Values in 2019-03-18 was from open price of 163.5700 and high price of 163.9000
+            
+            Values in 2019-03-14 was from open price of 169.7600 and high price of 171.1500
+            
+            Values in 2019-03-13 was from open price of 172.3200 and high price of 174.0300
+            
+            Values in 2019-03-11 was from open price of 171.6000 and high price of 174.3000
+            
+            Values in 2019-03-06 was from open price of 172.9000 and high price of 173.5700
+            
+            Values in 2019-03-12 was from open price of 172.0900 and high price of 173.8000
+            
+            Values in 2019-03-08 was from open price of 166.2000 and high price of 169.6200
+            
+            Values in 2019-03-04 was from open price of 163.9000 and high price of 167.5000
+            
+            Values in 2019-03-01 was from open price of 162.6000 and high price of 163.1320
+            
+            Values in 2019-02-27 was from open price of 162.9000 and high price of 163.9300
+            
+            Values in 2019-02-28 was from open price of 162.3700 and high price of 163.5000
+            
+            Values in 2019-02-25 was from open price of 163.0700 and high price of 166.0700
+            
+            Values in 2019-02-26 was from open price of 164.3350 and high price of 166.2400
+            
+            Values in 2019-02-21 was from open price of 161.9300 and high price of 162.2400
+            
+            Values in 2019-02-19 was from open price of 160.5000 and high price of 164.1500
+            
+            Values in 2019-02-22 was from open price of 160.5800 and high price of 162.4100
+            
+            Values in 2019-02-20 was from open price of 162.2500 and high price of 163.7200
+            
+            Values in 2019-02-15 was from open price of 164.5100 and high price of 164.7000
+            
+            Values in 2019-02-13 was from open price of 165.3800 and high price of 166.2200
+            
+            Values in 2019-02-14 was from open price of 163.1900 and high price of 164.8697
+            
+            Values in 2019-03-05 was from open price of 167.3700 and high price of 171.8800
+            
+            Values in 2019-02-12 was from open price of 166.8600 and high price of 168.3400
+            
+            Values in 2019-02-08 was from open price of 164.4700 and high price of 167.3700
+            
+            Values in 2019-02-11 was from open price of 167.9000 and high price of 168.3000
+            
+            Values in 2019-02-07 was from open price of 168.2000 and high price of 169.2400
+            
+            Values in 2019-02-06 was from open price of 171.2000 and high price of 172.4700
+            
+            Values in 2019-02-05 was from open price of 169.1500 and high price of 171.9800
+            
+            Values in 2019-02-04 was from open price of 165.7000 and high price of 169.3000
+            
+            Values in 2019-02-01 was from open price of 165.8400 and high price of 169.1000
+            
+            Values in 2019-03-07 was from open price of 171.5000 and high price of 171.7400
+            
+            Values in 2019-01-30 was from open price of 146.2200 and high price of 150.9500
+            
+            Values in 2019-01-29 was from open price of 148.0900 and high price of 148.1000
+            
+            Values in 2019-01-31 was from open price of 165.6000 and high price of 171.6800
+            
+            Values in 2019-01-28 was from open price of 148.0500 and high price of 148.9600
+            
+            Values in 2019-01-24 was from open price of 144.6400 and high price of 146.4400
+            
+            Values in 2019-01-23 was from open price of 148.2800 and high price of 148.8000
+            
+            Values in 2019-01-25 was from open price of 147.4800 and high price of 149.8300
+            
+            Values in 2019-01-22 was from open price of 149.2000 and high price of 151.5300
+            
+            Values in 2019-01-18 was from open price of 149.7500 and high price of 152.4300
+            
+            Values in 2019-01-17 was from open price of 146.9500 and high price of 149.0000
+            
+            Values in 2019-01-16 was from open price of 149.0000 and high price of 149.6499
+            
+            Values in 2019-01-15 was from open price of 146.0100 and high price of 150.6800
+            
+            Values in 2019-01-11 was from open price of 143.1500 and high price of 145.3600
+            
+            Values in 2019-01-14 was from open price of 142.0000 and high price of 146.5700
+            
+            Values in 2019-01-09 was from open price of 142.9500 and high price of 144.7000
+            
+            Values in 2019-01-10 was from open price of 143.0800 and high price of 144.5600
+            
+            Values in 2019-01-08 was from open price of 139.8900 and high price of 143.1400
+            
+            Values in 2019-01-07 was from open price of 137.5600 and high price of 138.8700
+            
+            Values in 2019-01-04 was from open price of 134.0100 and high price of 138.0000
+            
+            Values in 2018-12-31 was from open price of 134.4500 and high price of 134.6400
+            
+            Values in 2019-01-03 was from open price of 134.6900 and high price of 137.1700
+            
+            Values in 2019-01-02 was from open price of 128.9900 and high price of 137.5100
+            
+            Values in 2018-12-28 was from open price of 135.3400 and high price of 135.9200
+            
+            Values in 2018-12-27 was from open price of 132.4400 and high price of 134.9900
+            
+            Values in 2018-12-26 was from open price of 126.0000 and high price of 134.2400
+            
+            Values in 2018-12-24 was from open price of 123.1000 and high price of 129.7400
+            
+            Values in 2018-12-21 was from open price of 133.3900 and high price of 134.9000
+            
+            Values in 2018-12-19 was from open price of 141.2100 and high price of 144.9100
+            
+            Values in 2018-12-20 was from open price of 130.7000 and high price of 135.5700
+            
+            Values in 2018-12-18 was from open price of 141.0800 and high price of 145.9300
+            
+            Values in 2018-12-17 was from open price of 143.0800 and high price of 144.9200
+            
+            Values in 2018-12-12 was from open price of 143.0800 and high price of 147.1900
+            
+            Values in 2018-12-14 was from open price of 143.3400 and high price of 146.0100
+            
+            Values in 2018-12-11 was from open price of 143.8800 and high price of 143.8800
+            
+            Values in 2018-12-13 was from open price of 145.5700 and high price of 145.8500
+            
+            Values in 2018-12-07 was from open price of 139.2500 and high price of 140.8700
+            
+            Values in 2018-12-10 was from open price of 139.6000 and high price of 143.0500
+            
+            Values in 2018-12-06 was from open price of 133.8200 and high price of 139.7000
+            
+            Values in 2018-12-04 was from open price of 140.7300 and high price of 143.3900
+            
+            Values in 2018-12-03 was from open price of 143.0000 and high price of 143.6799
+            
+            Values in 2018-11-30 was from open price of 138.2600 and high price of 140.9660
+            
+            Values in 2018-11-29 was from open price of 135.9200 and high price of 139.9900
+            
+            Values in 2018-11-28 was from open price of 136.2800 and high price of 136.7899
+            
+            Values in 2018-11-26 was from open price of 133.0000 and high price of 137.0000
+            
+            Values in 2018-11-27 was from open price of 135.7500 and high price of 136.6126
+            
+            Values in 2018-11-23 was from open price of 133.6500 and high price of 134.5000
+            
+            Values in 2018-11-21 was from open price of 134.4000 and high price of 137.1900
+            
+            Values in 2018-11-20 was from open price of 127.0300 and high price of 134.1592
+            
+            Values in 2018-11-19 was from open price of 137.6100 and high price of 137.7500
+            
+            Values in 2018-11-16 was from open price of 141.0700 and high price of 141.7700
+            
+            Values in 2018-11-15 was from open price of 142.3300 and high price of 144.8400
+            
+            Values in 2019-04-11 was from open price of 178.2400 and high price of 178.4000
+            
+            Values in 2019-04-10 was from open price of 178.1800 and high price of 178.7900
+            
+            Values in 2019-04-09 was from open price of 175.6200 and high price of 179.1900
+            
+            Values in 2019-04-05 was from open price of 176.8800 and high price of 177.0000
+            
+            Values in 2019-04-08 was from open price of 175.2100 and high price of 175.5000
+            
+            Values in 2019-04-04 was from open price of 176.0200 and high price of 178.0000
+            
+            Values in 2019-04-03 was from open price of 174.5000 and high price of 177.9600
+            
+            Values in 2019-03-29 was from open price of 166.3900 and high price of 167.1900
+            
+            Values in 2019-04-02 was from open price of 170.1400 and high price of 174.9000
+            
+            Values in 2019-04-01 was from open price of 167.8300 and high price of 168.9000
+            
+            Values in 2019-03-27 was from open price of 167.8500 and high price of 168.9400
+            
+            Values in 2019-03-28 was from open price of 164.5700 and high price of 166.7200
+            
+            Values in 2019-03-22 was from open price of 165.6500 and high price of 167.4200
+            
+            Values in 2019-03-25 was from open price of 163.0000 and high price of 166.5400
+            
+            Values in 2019-03-26 was from open price of 167.3500 and high price of 169.4500
+            
+            Values in 2019-03-21 was from open price of 164.8900 and high price of 166.3900
+            
+            Values in 2019-03-18 was from open price of 163.5700 and high price of 163.9000
+            
+            Values in 2019-03-20 was from open price of 161.5000 and high price of 166.1200
+            
+            Values in 2019-03-19 was from open price of 161.4800 and high price of 163.8200
+            
+            Values in 2019-03-13 was from open price of 172.3200 and high price of 174.0300
+            
+            Values in 2019-03-14 was from open price of 169.7600 and high price of 171.1500
+            
+            Values in 2019-03-12 was from open price of 172.0900 and high price of 173.8000
+            
+            Values in 2019-03-11 was from open price of 171.6000 and high price of 174.3000
+            
+            Values in 2019-03-15 was from open price of 167.1600 and high price of 167.5800
+            
+            Values in 2019-03-06 was from open price of 172.9000 and high price of 173.5700
+            
+            Values in 2019-03-08 was from open price of 166.2000 and high price of 169.6200
+            
+            Values in 2019-03-07 was from open price of 171.5000 and high price of 171.7400
+            
+            Values in 2019-03-05 was from open price of 167.3700 and high price of 171.8800
+            
+            Values in 2019-03-01 was from open price of 162.6000 and high price of 163.1320
+            
+            Values in 2019-02-28 was from open price of 162.3700 and high price of 163.5000
+            
+            Values in 2019-03-04 was from open price of 163.9000 and high price of 167.5000
+            
+            Values in 2019-02-27 was from open price of 162.9000 and high price of 163.9300
+            
+            Values in 2019-02-26 was from open price of 164.3350 and high price of 166.2400
+            
+            Values in 2019-02-22 was from open price of 160.5800 and high price of 162.4100
+            
+            Values in 2019-02-25 was from open price of 163.0700 and high price of 166.0700
+            
+            Values in 2019-02-21 was from open price of 161.9300 and high price of 162.2400
+            
+            Values in 2019-02-20 was from open price of 162.2500 and high price of 163.7200
+            
+            Values in 2019-02-15 was from open price of 164.5100 and high price of 164.7000
+            
+            Values in 2019-02-14 was from open price of 163.1900 and high price of 164.8697
+            
+            Values in 2019-02-19 was from open price of 160.5000 and high price of 164.1500
+            
+            Values in 2019-02-13 was from open price of 165.3800 and high price of 166.2200
+            
+            Values in 2019-02-12 was from open price of 166.8600 and high price of 168.3400
+            
+            Values in 2019-02-11 was from open price of 167.9000 and high price of 168.3000
+            
+            Values in 2019-02-08 was from open price of 164.4700 and high price of 167.3700
+            
+            Values in 2019-02-06 was from open price of 171.2000 and high price of 172.4700
+            
+            Values in 2019-02-07 was from open price of 168.2000 and high price of 169.2400
+            
+            Values in 2019-02-05 was from open price of 169.1500 and high price of 171.9800
+            
+            Values in 2019-02-04 was from open price of 165.7000 and high price of 169.3000
+            
+            Values in 2019-02-01 was from open price of 165.8400 and high price of 169.1000
+            
+            Values in 2019-01-31 was from open price of 165.6000 and high price of 171.6800
+            
+            Values in 2019-01-30 was from open price of 146.2200 and high price of 150.9500
+            
+            Values in 2019-01-29 was from open price of 148.0900 and high price of 148.1000
+            
+            Values in 2019-01-28 was from open price of 148.0500 and high price of 148.9600
+            
+            Values in 2019-01-25 was from open price of 147.4800 and high price of 149.8300
+            
+            Values in 2019-01-24 was from open price of 144.6400 and high price of 146.4400
+            
+            Values in 2019-01-22 was from open price of 149.2000 and high price of 151.5300
+            
+            Values in 2019-01-18 was from open price of 149.7500 and high price of 152.4300
+            
+            Values in 2019-01-23 was from open price of 148.2800 and high price of 148.8000
+            
+            Values in 2019-01-17 was from open price of 146.9500 and high price of 149.0000
+            
+            Values in 2019-01-15 was from open price of 146.0100 and high price of 150.6800
+            
+            Values in 2019-01-16 was from open price of 149.0000 and high price of 149.6499
+            
+            Values in 2019-01-10 was from open price of 143.0800 and high price of 144.5600
+            
+            Values in 2019-01-14 was from open price of 142.0000 and high price of 146.5700
+            
+            Values in 2019-01-09 was from open price of 142.9500 and high price of 144.7000
+            
+            Values in 2019-01-11 was from open price of 143.1500 and high price of 145.3600
+            
+            Values in 2019-01-08 was from open price of 139.8900 and high price of 143.1400
+            
+            Values in 2019-01-07 was from open price of 137.5600 and high price of 138.8700
+            
+            Values in 2019-01-04 was from open price of 134.0100 and high price of 138.0000
+            
+            Values in 2019-01-03 was from open price of 134.6900 and high price of 137.1700
+            
+            Values in 2018-12-31 was from open price of 134.4500 and high price of 134.6400
+            
+            Values in 2019-01-02 was from open price of 128.9900 and high price of 137.5100
+            
+            Values in 2018-12-28 was from open price of 135.3400 and high price of 135.9200
+            
+            Values in 2018-12-27 was from open price of 132.4400 and high price of 134.9900
+            
+            Values in 2018-12-26 was from open price of 126.0000 and high price of 134.2400
+            
+            Values in 2018-12-24 was from open price of 123.1000 and high price of 129.7400
+            
+            Values in 2018-12-21 was from open price of 133.3900 and high price of 134.9000
+            
+            Values in 2018-12-20 was from open price of 130.7000 and high price of 135.5700
+            
+            Values in 2018-12-19 was from open price of 141.2100 and high price of 144.9100
+            
+            Values in 2018-12-18 was from open price of 141.0800 and high price of 145.9300
+            
+            Values in 2018-12-14 was from open price of 143.3400 and high price of 146.0100
+            
+            Values in 2018-12-17 was from open price of 143.0800 and high price of 144.9200
+            
+            Values in 2018-12-13 was from open price of 145.5700 and high price of 145.8500
+            
+            Values in 2018-12-12 was from open price of 143.0800 and high price of 147.1900
+            
+            Values in 2018-12-10 was from open price of 139.6000 and high price of 143.0500
+            
+            Values in 2018-12-07 was from open price of 139.2500 and high price of 140.8700
+            
+            Values in 2018-12-11 was from open price of 143.8800 and high price of 143.8800
+            
+            Values in 2018-12-06 was from open price of 133.8200 and high price of 139.7000
+            
+            Values in 2018-12-04 was from open price of 140.7300 and high price of 143.3900
+            
+            Values in 2018-11-29 was from open price of 135.9200 and high price of 139.9900
+            
+            Values in 2018-12-03 was from open price of 143.0000 and high price of 143.6799
+            
+            Values in 2018-11-30 was from open price of 138.2600 and high price of 140.9660
+            
+            Values in 2018-11-27 was from open price of 135.7500 and high price of 136.6126
+            
+            Values in 2018-11-26 was from open price of 133.0000 and high price of 137.0000
+            
+            Values in 2018-11-28 was from open price of 136.2800 and high price of 136.7899
+            
+            Values in 2018-11-23 was from open price of 133.6500 and high price of 134.5000
+            
+            Values in 2018-11-21 was from open price of 134.4000 and high price of 137.1900
+            
+            Values in 2018-11-20 was from open price of 127.0300 and high price of 134.1592
+            
+            Values in 2018-11-16 was from open price of 141.0700 and high price of 141.7700
+            
+            Values in 2018-11-19 was from open price of 137.6100 and high price of 137.7500
+            
+            Values in 2018-11-15 was from open price of 142.3300 and high price of 144.8400
+            
+            Values in 2019-04-10 was from open price of 178.1800 and high price of 178.7900
+            
+            Values in 2019-04-11 was from open price of 178.2400 and high price of 178.4000
+            
+            Values in 2019-04-09 was from open price of 175.6200 and high price of 179.1900
+            
+            Values in 2019-04-08 was from open price of 175.2100 and high price of 175.5000
+            
+            Values in 2019-04-05 was from open price of 176.8800 and high price of 177.0000
+            
+            Values in 2019-04-04 was from open price of 176.0200 and high price of 178.0000
+            
+            Values in 2019-04-03 was from open price of 174.5000 and high price of 177.9600
+            
+            Values in 2019-04-02 was from open price of 170.1400 and high price of 174.9000
+            
+            Values in 2019-04-01 was from open price of 167.8300 and high price of 168.9000
+            
+            Values in 2019-03-29 was from open price of 166.3900 and high price of 167.1900
+            
+            Values in 2019-03-28 was from open price of 164.5700 and high price of 166.7200
+            
+            Values in 2019-03-27 was from open price of 167.8500 and high price of 168.9400
+            
+            Values in 2019-03-26 was from open price of 167.3500 and high price of 169.4500
+            
+            Values in 2019-03-25 was from open price of 163.0000 and high price of 166.5400
+            
+            Values in 2019-03-22 was from open price of 165.6500 and high price of 167.4200
+            
+            Values in 2019-03-21 was from open price of 164.8900 and high price of 166.3900
+            
+            Values in 2019-03-20 was from open price of 161.5000 and high price of 166.1200
+            
+            Values in 2019-03-19 was from open price of 161.4800 and high price of 163.8200
+            
+            Values in 2019-03-18 was from open price of 163.5700 and high price of 163.9000
+            
+            Values in 2019-03-15 was from open price of 167.1600 and high price of 167.5800
+            
+            Values in 2019-03-14 was from open price of 169.7600 and high price of 171.1500
+            
+            Values in 2019-03-13 was from open price of 172.3200 and high price of 174.0300
+            
+            Values in 2019-03-12 was from open price of 172.0900 and high price of 173.8000
+            
+            Values in 2019-03-11 was from open price of 171.6000 and high price of 174.3000
+            
+            Values in 2019-03-08 was from open price of 166.2000 and high price of 169.6200
+            
+            Values in 2019-03-07 was from open price of 171.5000 and high price of 171.7400
+            
+            Values in 2019-03-06 was from open price of 172.9000 and high price of 173.5700
+            
+            Values in 2019-03-04 was from open price of 163.9000 and high price of 167.5000
+            
+            Values in 2019-03-05 was from open price of 167.3700 and high price of 171.8800
+            
+            Values in 2019-03-01 was from open price of 162.6000 and high price of 163.1320
+            
+            Values in 2019-02-28 was from open price of 162.3700 and high price of 163.5000
+            
+            Values in 2019-02-27 was from open price of 162.9000 and high price of 163.9300
+            
+            Values in 2019-02-26 was from open price of 164.3350 and high price of 166.2400
+            
+            Values in 2019-02-25 was from open price of 163.0700 and high price of 166.0700
+            
+            Values in 2019-02-22 was from open price of 160.5800 and high price of 162.4100
+            
+            Values in 2019-02-21 was from open price of 161.9300 and high price of 162.2400
+            
+            Values in 2019-02-20 was from open price of 162.2500 and high price of 163.7200
+            
+            Values in 2019-02-19 was from open price of 160.5000 and high price of 164.1500
+            
+            Values in 2019-02-15 was from open price of 164.5100 and high price of 164.7000
+            
+            Values in 2019-02-13 was from open price of 165.3800 and high price of 166.2200
+            
+            Values in 2019-02-12 was from open price of 166.8600 and high price of 168.3400
+            
+            Values in 2019-02-11 was from open price of 167.9000 and high price of 168.3000
+            
+            Values in 2019-02-14 was from open price of 163.1900 and high price of 164.8697
+            
+            Values in 2019-02-08 was from open price of 164.4700 and high price of 167.3700
+            
+            Values in 2019-02-07 was from open price of 168.2000 and high price of 169.2400
+            
+            Values in 2019-02-06 was from open price of 171.2000 and high price of 172.4700
+            
+            Values in 2019-02-05 was from open price of 169.1500 and high price of 171.9800
+            
+            Values in 2019-02-04 was from open price of 165.7000 and high price of 169.3000
+            
+            Values in 2019-02-01 was from open price of 165.8400 and high price of 169.1000
+            
+            Values in 2019-01-31 was from open price of 165.6000 and high price of 171.6800
+            
+            Values in 2019-01-30 was from open price of 146.2200 and high price of 150.9500
+            
+            Values in 2019-01-29 was from open price of 148.0900 and high price of 148.1000
+            
+            Values in 2019-01-25 was from open price of 147.4800 and high price of 149.8300
+            
+            Values in 2019-01-28 was from open price of 148.0500 and high price of 148.9600
+            
+            Values in 2019-01-24 was from open price of 144.6400 and high price of 146.4400
+            
+            Values in 2019-01-23 was from open price of 148.2800 and high price of 148.8000
+            
+            Values in 2019-01-18 was from open price of 149.7500 and high price of 152.4300
+            
+            Values in 2019-01-22 was from open price of 149.2000 and high price of 151.5300
+            
+            Values in 2019-01-17 was from open price of 146.9500 and high price of 149.0000
+            
+            Values in 2019-01-16 was from open price of 149.0000 and high price of 149.6499
+            
+            Values in 2019-01-15 was from open price of 146.0100 and high price of 150.6800
+            
+            Values in 2019-01-14 was from open price of 142.0000 and high price of 146.5700
+            
+            Values in 2019-01-10 was from open price of 143.0800 and high price of 144.5600
+            
+            Values in 2019-01-09 was from open price of 142.9500 and high price of 144.7000
+            
+            Values in 2019-01-11 was from open price of 143.1500 and high price of 145.3600
+            
+            Values in 2019-01-08 was from open price of 139.8900 and high price of 143.1400
+            
+            Values in 2019-01-07 was from open price of 137.5600 and high price of 138.8700
+            
+            Values in 2019-01-03 was from open price of 134.6900 and high price of 137.1700
+            
+            Values in 2019-01-04 was from open price of 134.0100 and high price of 138.0000
+            
+            Values in 2018-12-31 was from open price of 134.4500 and high price of 134.6400
+            
+            Values in 2019-01-02 was from open price of 128.9900 and high price of 137.5100
+            
+            Values in 2018-12-28 was from open price of 135.3400 and high price of 135.9200
+            
+            Values in 2018-12-26 was from open price of 126.0000 and high price of 134.2400
+            
+            Values in 2018-12-27 was from open price of 132.4400 and high price of 134.9900
+            
+            Values in 2018-12-24 was from open price of 123.1000 and high price of 129.7400
+            
+            Values in 2018-12-21 was from open price of 133.3900 and high price of 134.9000
+            
+            Values in 2018-12-19 was from open price of 141.2100 and high price of 144.9100
+            
+            Values in 2018-12-18 was from open price of 141.0800 and high price of 145.9300
+            
+            Values in 2018-12-20 was from open price of 130.7000 and high price of 135.5700
+            
+            Values in 2018-12-17 was from open price of 143.0800 and high price of 144.9200
+            
+            Values in 2018-12-14 was from open price of 143.3400 and high price of 146.0100
+            
+            Values in 2018-12-13 was from open price of 145.5700 and high price of 145.8500
+            
+            Values in 2018-12-12 was from open price of 143.0800 and high price of 147.1900
+            
+            Values in 2018-12-10 was from open price of 139.6000 and high price of 143.0500
+            
+            Values in 2018-12-11 was from open price of 143.8800 and high price of 143.8800
+            
+            Values in 2018-12-06 was from open price of 133.8200 and high price of 139.7000
+            
+            Values in 2018-12-07 was from open price of 139.2500 and high price of 140.8700
+            
+            Values in 2018-12-04 was from open price of 140.7300 and high price of 143.3900
+            
+            Values in 2018-12-03 was from open price of 143.0000 and high price of 143.6799
+            
+            Values in 2018-11-30 was from open price of 138.2600 and high price of 140.9660
+            
+            Values in 2018-11-28 was from open price of 136.2800 and high price of 136.7899
+            
+            Values in 2018-11-26 was from open price of 133.0000 and high price of 137.0000
+            
+            Values in 2018-11-27 was from open price of 135.7500 and high price of 136.6126
+            
+            Values in 2018-11-29 was from open price of 135.9200 and high price of 139.9900
+            
+            Values in 2018-11-23 was from open price of 133.6500 and high price of 134.5000
+            
+            Values in 2018-11-21 was from open price of 134.4000 and high price of 137.1900
+            
+            Values in 2018-11-20 was from open price of 127.0300 and high price of 134.1592
+            
+            Values in 2018-11-19 was from open price of 137.6100 and high price of 137.7500
+            
+            Values in 2018-11-16 was from open price of 141.0700 and high price of 141.7700
+            
+            Values in 2018-11-15 was from open price of 142.3300 and high price of 144.8400
+            
+            

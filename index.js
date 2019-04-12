@@ -1,104 +1,58 @@
-var requestPackage = require('request');
+/* const express = require('express');
 
-var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=900&token=acf4b89d3d503d8252c9c4ba75ddbf6d&opera=1&tipo=1&dor=2';
-var rp = require('request-promise');
-
-var express = require('express');
-var app = express();
+const app = express();
 
 
-
-
-app.listen(process.env.PORT || 3000, () => {
-  console.log('Aplicación ejemplo, escuchando el puerto 3000!');
+app.listen('3000', () => {
+    console.log('server in 3000');
 });
 
-app.get('/', (req, res) => {
-  var url = 'https://gvamax.com.ar/Api/Inmuebles/?id=558&token=1bb91f73e9d31ea2830a5e73ce3ed328';
+*/
+const requestPromise = require('request-promise');
+const fs = require('fs');
+const apiKey = 'X86NOH6II01P7R24';
+const baseUrl = 'https://www.alphavantage.co/';
 
-  requestPackage(
-    {
-      url: url,
-      json: true
-    },
-    function(error, response, body) {
-      if(error){
-        return res.send(error)
-      }
-      if (!error && response.statusCode === 200) {
-        const propiedadesSinMapear = response.body;
-        const propiedadesMapeadas = [];
-        propiedadesSinMapear.map(async propiedad => {
-          let propiedadMapeada = {};
-          propiedadMapeada.id = propiedad.id;
-          propiedadMapeada.title = propiedad.titulo;
-          propiedadMapeada.mainImage = propiedad.imagen;
-          const imagesPropiedad = await getImagenesProperty(propiedad.id);
-          imagesPropiedad.map((imagen, index) => {
-            const imageUrl = Object.values(imagen)[0];
-            propiedadMapeada['imagen_' + index] = imageUrl;
-          });
-          const price = propiedad.precio.slice(1);
-          propiedadMapeada.REAL_HOMES_property_price = price.replace(/\s/g,'');
-          propiedadMapeada.REAL_HOMES_property_price_postfix = propiedad.moneda == 'D' ? 'USD' : '$';
-          propiedadMapeada.REAL_HOMES_property_bathrooms = propiedad.banos;
-          propiedadMapeada.REAL_HOMES_property_address = `${propiedad.calle} ${propiedad.nro}, ${propiedad.localidad}, ${propiedad.provincia}, ${propiedad.pais}`;
-          propiedadMapeada.REAL_HOMES_property_location = propiedad.coord;
-          propiedadMapeada.localidad = propiedad.localidad;
-          propiedadMapeada.estado = propiedad.opera;
-          propiedadMapeada.tipo = getWpType(propiedad.tipo);
-          propiedadesMapeadas.push(propiedadMapeada);
-          console.log(propiedadMapeada);
-          if(propiedadesMapeadas.length == propiedadesSinMapear.length){
-            return res.send(propiedadesMapeadas);
-          }
-        });
-      }else{
-        return res.send(response.body);
-      }
-    }
-  );
-});
+const requestAuctions = (functionToUse, auctionSymbol, outpoutSize) => {
+    const url = `${baseUrl}query?function=${functionToUse}&symbol=${auctionSymbol}&outputsize=${outpoutSize}&apikey=${apiKey}`;
+    return requestPromise(url)
+  
+}
 
-getImagenesProperty = id => {
-  return new Promise((resolve, reject) => {
-    requestPackage(
-      {
-        url: `https://gvamax.com.ar/Api/Images/?id=558&idprop=${id}&token=1bb91f73e9d31ea2830a5e73ce3ed328`
-      },
-      function(error, response, body) {
-        if (!error && response.statusCode === 200) {
-          let toRemove1 = '<head>';
-          let toRemove2 = '</head>';
-          let toRemove3 = '<meta http-equiv="Content-Type" content="text/html;charset=utf-8">';
-          response.body = response.body.replace(toRemove1, '');
-          response.body = response.body.replace(toRemove2, '');
-          response.body = response.body.replace(toRemove3, '');
-          response.body  = response.body.replace(/\s/g,'');  
-          response.body = JSON.parse(response.body);
+requestAuctions('TIME_SERIES_DAILY', 'FB', 'compact').then((responseFromApi) => {
+    const dataInJson = JSON.parse(responseFromApi);
+    const timeSeries = dataInJson['Time Series (Daily)'];
+    const timeSeriesKey = Object.keys(dataInJson['Time Series (Daily)']);
 
-          resolve(response.body);
-        } else {
-          console.log(error);
-          reject(error);
+    timeSeriesKey.map((timeSerieKey) => {
+        try {
+            const priceKeys = Object.keys(timeSeries[timeSerieKey]);
+            const openPrice = timeSeries[timeSerieKey][priceKeys[0]];
+            const highPrice = timeSeries[timeSerieKey][priceKeys[1]];
+            const message = `Values in ${timeSerieKey} was from open price of ${openPrice} and high price of ${highPrice}
+            
+            `;
+            writeLog('readAuctions', 'auction readed');
+            fs.appendFile('results.txt', message, () => {
+                console.log('file writted');
+            });
+        } catch (error) {
+            console.log(error);
         }
-      }
-    );
-  });
-};
+
+  
+    })
+
+})
+.catch((error) => {
+    console.log(error);
+});
 
 
-const getWpType = (type) => {
-    switch(type){
-        case 'Casa':
-        return 'Casas';
-        case 'Campo':
-        return 'Campos';
-        case 'Local':
-        return 'Locales';
-        case 'Terreno':
-        return 'Terrenos / Lotes';
-        default: 
-        return 'Otros'
-    }
+const writeLog = (type, message) => {
+    const date = new Date();
+    const logToAdd = `date ${date}:: ${type} -- ${message}`;
+    fs.appendFile('log.txt', logToAdd, () => {
+        console.log('file writted');
+    });
 }
